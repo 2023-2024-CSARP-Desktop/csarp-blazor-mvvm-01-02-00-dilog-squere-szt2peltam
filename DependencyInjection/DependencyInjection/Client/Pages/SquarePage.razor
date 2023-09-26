@@ -7,6 +7,12 @@
 
 <h3>Négyzet terület és került számítás</h3>
 
+<CascadingValue Value="@ViewModel" Name="ViewModel">
+    <SquareData />
+    <ShowSquareResult />
+
+
+</CascadingValue>
 @code {
     [Inject]
     public ISquareViewModel? ViewModel { get; set; }

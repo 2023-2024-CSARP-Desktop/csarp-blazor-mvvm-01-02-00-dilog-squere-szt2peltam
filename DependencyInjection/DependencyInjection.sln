@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection.Server", "DependencyInjection\Server\DependencyInjection.Server.csproj", "{543EBA26-1721-4AA0-B460-33FBDC39D123}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInjection.Server", "DependencyInjection\Server\DependencyInjection.Server.csproj", "{543EBA26-1721-4AA0-B460-33FBDC39D123}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection.Client", "DependencyInjection\Client\DependencyInjection.Client.csproj", "{6D5A29DC-2206-49EB-8FF4-95DADF6F2765}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInjection.Client", "DependencyInjection\Client\DependencyInjection.Client.csproj", "{6D5A29DC-2206-49EB-8FF4-95DADF6F2765}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection.Shared", "DependencyInjection\Shared\DependencyInjection.Shared.csproj", "{886AFEC6-AC75-4601-9BD7-B13265B7BC99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInjection.Shared", "DependencyInjection\Shared\DependencyInjection.Shared.csproj", "{886AFEC6-AC75-4601-9BD7-B13265B7BC99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

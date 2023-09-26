@@ -28,6 +28,8 @@ namespace DependencyInjection.Client.ViewModels
                 catch (Exception e)
                 {
                 }
+
+                OnPropertyChanged(nameof(Side));
             }
         }
 
