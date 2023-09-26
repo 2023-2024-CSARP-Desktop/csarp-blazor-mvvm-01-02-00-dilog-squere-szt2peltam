@@ -3,7 +3,7 @@ using ViewModels.BaseClass;
 
 namespace DependencyInjection.Client.ViewModels
 {
-    public class SquareViewModel : ViewModelBase
+    public class SquareViewModel : ViewModelBase, ISquareViewModel
     {
         private Square _square;
 

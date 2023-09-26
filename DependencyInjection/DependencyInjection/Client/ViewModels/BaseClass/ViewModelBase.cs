@@ -1,4 +1,5 @@
-﻿using System.ComponentModel;
+﻿using DependencyInjection.Client.ViewModels.BaseClass;
+using System.ComponentModel;
 using System.Runtime.CompilerServices;
 
 namespace ViewModels.BaseClass
